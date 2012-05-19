@@ -1,0 +1,13 @@
+Install
+-------
+From the source distribution, extract the tarball:
+
+	tar zxvf blogpingr-x.x.x.tar.gz
+
+change directory:
+
+	cd blogpingr-x.x.x
+
+and then run installation script with root privilege:
+
+	python setup.py instal

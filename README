@@ -1,0 +1,11 @@
+Blogpingr readme
+
+Blogpingr is program for pingning xml-rpc updating services.
+
+How to use blogpingr:
+
+	blogpingr http://www.myblog.bg/ "My Blog"
+
+blogpingr use the file "/etc/blogpingr.conf" for list with rpc servers which to ping.
+
+You can add or remove servers from blogpingr.conf.
